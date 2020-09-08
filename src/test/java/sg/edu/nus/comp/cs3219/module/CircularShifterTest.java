@@ -1,6 +1,7 @@
 package sg.edu.nus.comp.cs3219.module;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotEquals;
 
 import java.util.HashSet;
 import java.util.Set;
